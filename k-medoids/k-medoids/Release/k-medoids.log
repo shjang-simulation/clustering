@@ -1,0 +1,12 @@
+﻿  Source.cpp
+Source.cpp(55): warning C4018: '<': signed/unsigned mismatch
+Source.cpp(59): warning C4018: '<': signed/unsigned mismatch
+Source.cpp(72): warning C4018: '<': signed/unsigned mismatch
+Source.cpp(76): warning C4018: '<': signed/unsigned mismatch
+  Generating code
+  1 of 94 functions ( 1.1%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  k-medoids.vcxproj -> E:\_shjang\projects\visual studio 2015\CuraEngine2.3.1\k-medoids\Release\k-medoids.exe
+  k-medoids.vcxproj -> E:\_shjang\projects\visual studio 2015\CuraEngine2.3.1\k-medoids\Release\k-medoids.pdb (Full PDB)
